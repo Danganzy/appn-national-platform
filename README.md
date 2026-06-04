@@ -150,7 +150,8 @@ This project demonstrates a complete client engagement cycle:
 
 ## Screenshots
 
-> _Available on request — see live site at appnigeria.org_
+![Dashboard](APPNDashboard.png)
+   ![Members](APPNDashboard2.png)
 
 ---
 
